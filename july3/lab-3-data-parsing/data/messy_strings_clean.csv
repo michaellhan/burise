@@ -1,0 +1,51 @@
+raw,clean
+BOB(,bob
+  dana~  ,dana
+{EVE/,eve
+"  ""ALICE   ",alice
+BOB,bob
+DANA,dana
+CHARLIE,charlie
+  alice   ,alice
+FRANK,frank
+bob,bob
+eve,eve
+\dana',dana
+EVE,eve
+ CHARLIE ,charlie
+-eve,eve
+  bob   ,bob
+EVE,eve
+  .FRANK   ,frank
+  eve ,eve
+EVE,eve
+BOB&,bob
+"charlie""",charlie
+" ,charlie  ",charlie
+   EVE  ,eve
+]dana,dana
+   charlie  ,charlie
+alice+,alice
+   EVE{ ,eve
+DANA,dana
+ frank  ,frank
+CHARLIE!,charlie
+  |ALICE# ,alice
+BOB,bob
+frank^,frank
+alice,alice
+'bob,bob
+CHARLIE,charlie
+   eve+ ,eve
+  CHARLIE ,charlie
+charlie,charlie
+dana#,dana
+   DANA   ,dana
+dana,dana
+CHARLIE,charlie
+ =charlie! ,charlie
+ bob   ,bob
+bob,bob
+ ;EVE   ,eve
+  =charlie  ,charlie
+dana,dana
