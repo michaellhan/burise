@@ -1,0 +1,1 @@
+    The most challenging part of today was writing the quartile function. As I have minimal stats background and have not taken AP Statistics, I was not sure what a quartile was and had to do some research on how to linearly interpolate as well. The actual implementation wasn't too bad and I have some familiarity with Python syntax, so I think this was of a good difficulty.

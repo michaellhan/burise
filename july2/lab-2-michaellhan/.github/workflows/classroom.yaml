@@ -1,0 +1,41 @@
+name: GitHub Classroom Workflow
+
+on: 
+  push: 
+    paths: 
+      # Do not run workflow unless these files were modified
+      - 'assignment.py' 
+      - 'test_assignment.py' 
+
+jobs:
+  build:
+    name: Autograding
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read  # Allow read access to the repository contents
+      pull-requests: write  # Allow the workflow to write comments on pull requests
+      checks: write  # Allow the workflow to report the results of checks
+    steps:
+      - uses: actions/checkout@v2
+    
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+    
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Debug - run pytest verbosely
+        run: |
+          pytest -vv || true      # don't fail job, just print traceback
+    
+      - name: Run unit tests
+        id: tests
+        uses: classroom-resources/autograding-python-grader@v1
+        with:
+          entryPoint: pytest
+          args: "-q"
+          timeout: 10
+          pytest-options: "-p no:runner.orderplugin"
+          setup-command: "pip install -r requirements.txt"

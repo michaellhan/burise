@@ -1,0 +1,45 @@
+{
+    "tests": [
+      {
+        "name": "mean",
+        "setup": "sudo -H pip3 install -r requirements.txt",
+        "run": "pytest test_assignment.py::test_mean_basic",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "median",
+        "setup": "sudo -H pip3 install -r requirements.txt",
+        "run": "pytest test_assignment.py::test_median_odd_even",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "summary",
+        "setup": "sudo -H pip3 install -r requirements.txt",
+        "run": "pytest test_assignment.py::test_summary_keys",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "quantile",
+        "setup": "sudo -H pip3 install -r requirements.txt",
+        "run": "pytest test_assignment.py::test_quantile_bounds",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      }
+    ]
+  }
+
