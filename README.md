@@ -1,12 +1,13 @@
-# Burise - Data & Computing Camp Repository
+# BU RISE - Data Science
 
-This repository contains my work from a data & computing camp, organized by date. Each folder represents a day or module of the camp with various coding exercises, labs, and notebooks.
+This repository contains my work from [BU RISE](https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/), organized by date. Each folder represents a day or module of the camp with various coding exercises, labs, and notebooks.
 
 ## Structure
 
 - `july1/` - Day 1 materials and exercises
 - `july2/` - Day 2 materials including lab assignments and morning sessions
 - `july3/` - Day 3 materials including data parsing labs and documentation practice
+- etc.
 
 ## Contents
 
