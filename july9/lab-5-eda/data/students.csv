@@ -1,0 +1,101 @@
+student_id,age,gpa,gender,major,year
+1,14,,F,Economics,freshman
+2,17,2.92,M,History,senior
+3,17,2.97,F,Physics,senior
+4,16,2.76,F,Physics,junior
+5,16,2.24,M,Chemistry,junior
+6,18,3.12,F,History,senior
+7,14,1.88,M,History,freshman
+8,17,2.74,M,Music,senior
+9,15,2.23,F,Physics,sophomore
+10,14,2.37,M,Music,freshman
+11,16,,F,Music,junior
+12,18,3.44,M,Mathematics,senior
+13,17,2.48,F,  PHYSICS  ,senior
+14,17,,M,Physics,senior
+15,17,2.94,F,  COMPUTER SCIEN,senior
+16,17,3.05,F,Mathematics,senior
+17,16,2.78,F,Physics,junior
+18,14,2.2,N,English,freshman
+19,18,3.11,M,Physics,senior
+20,16,2.48,M,,junior
+21,16,2.81,M,Biology,junior
+22,15,2.25,M,  ECONOMICS  ,sophomore
+23,14,1.68,M,Biology,freshman
+24,18,2.92,F,Physics,senior
+25,17,2.67,M,Physics,senior
+26,17,3.02,M,Chemistry,senior
+27,16,2.64,F,Biology,junior
+28,18,3.37,F,English,senior
+29,16,2.49,M,Mathematics,junior
+30,16,,F,Mathematics,junior
+31,16,2.76,M,Art,junior
+32,15,,F,  CHEMISTRY  ,sophomore
+33,14,2.11,F,  HISTORY  ,freshman
+34,16,,M,Chemistry,junior
+35,18,3.11,F,  HISTORY  ,senior
+36,14,1.9,F,  MUSIC  ,freshman
+37,18,2.9,M,Mathematics,senior
+38,18,3.32,M,  ECONOMICS  ,senior
+39,15,2.18,F,Chemistry,sophomore
+40,17,2.9,F,Economics,senior
+41,14,2.12,M,Chemistry,freshman
+42,17,3.01,N,Mathematics,senior
+43,17,3.07,M,  BIOLOGY  ,senior
+44,15,2.28,F,English,sophomore
+45,14,1.89,F,Physics,freshman
+46,18,3.18,F,Chemistry,senior
+47,16,2.18,F,Computer Science,junior
+48,18,2.84,M,  COMPUTER SCIEN,senior
+49,17,2.57,F,Computer Science,senior
+50,17,2.65,M,Art,senior
+51,17,3.0,M,,senior
+52,14,,M,Music,freshman
+53,15,2.21,F,English,sophomore
+54,16,2.92,M,Computer Science,junior
+55,16,,M,  BIOLOGY  ,junior
+56,14,2.18,M,Biology,freshman
+57,16,2.37,F,History,junior
+58,14,1.95,F,Music,freshman
+59,17,2.66,M,Mathematics,senior
+60,17,2.82,F,Chemistry,senior
+61,18,3.41,F,Physics,senior
+62,17,2.47,M,Biology,senior
+63,15,2.41,M,Chemistry,sophomore
+64,18,3.26,M,Physics,senior
+65,16,2.45,F,Biology,junior
+66,15,1.94,M,,sophomore
+67,18,3.22,F,Music,senior
+68,15,2.17,M,Art,sophomore
+69,14,2.06,M,Biology,freshman
+70,16,2.61,F,Chemistry,junior
+71,17,3.3,F,Chemistry,senior
+72,14,1.94,F,  CHEMISTRY  ,freshman
+73,16,2.34,N,Music,junior
+74,14,2.04,M,Computer Science,freshman
+75,17,2.95,M,Music,senior
+76,16,2.94,M,History,junior
+77,15,,F,Chemistry,sophomore
+78,15,2.39,M,Mathematics,sophomore
+79,16,2.97,F,Economics,junior
+80,17,2.6,F,Art,senior
+81,18,3.04,M,Art,senior
+82,16,2.37,M,,junior
+83,14,1.9,F,Economics,freshman
+84,18,2.86,M,Economics,senior
+85,17,,M,Physics,senior
+86,17,2.84,M,Chemistry,senior
+87,14,1.63,M,Mathematics,freshman
+88,15,2.05,F,History,sophomore
+89,17,2.98,F,Mathematics,senior
+90,18,3.41,F,  MUSIC  ,senior
+91,16,3.1,M,,junior
+92,18,3.93,M,Chemistry,senior
+93,18,3.3,F,English,senior
+94,15,2.05,F,Economics,sophomore
+95,18,2.67,F,History,senior
+96,15,2.37,M,Art,sophomore
+97,15,2.1,M,Art,sophomore
+98,17,2.8,F,Computer Science,senior
+99,17,2.75,F,  COMPUTER SCIEN,senior
+100,14,1.96,M,  BIOLOGY  ,freshman
